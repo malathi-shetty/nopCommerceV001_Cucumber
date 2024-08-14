@@ -295,13 +295,4 @@ public class Steps extends BaseClass {
 		boolean status = searchCust.searchCustomerByName("Victoria Terces");
 		Assert.assertEquals(true, status);
 	}
-
-	
-	
-	
-	
-	
-	
-
-
 }
